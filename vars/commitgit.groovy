@@ -5,7 +5,7 @@ def call(){
 // sh "git add ."
 // sh 'git commit -m "commiting version bump"'
 // sh "git push origin HEAD:main"
-echo $PASS
+    sh "echo $PASS"
     }
 }
 
