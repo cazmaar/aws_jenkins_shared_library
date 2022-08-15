@@ -1,0 +1,28 @@
+<mxfile host="65bd71144e">
+    <diagram id="SQc_DA_FXWCFIbLpcZZP" name="Page-1">
+        <mxGraphModel dx="280" dy="147" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
+                    <mxGeometry x="60" y="60" width="260" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Virtual Private Cloud(Region)" style="whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="30" width="150" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="AZ (Subnet)" style="whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
+                    <mxGeometry x="70" y="170" width="70" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="AZ (Subnet)" style="whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
+                    <mxGeometry x="227.5" y="175" width="57.5" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Az (Subnet)&lt;br&gt;Subnet is a set of IP addresses." style="whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
+                    <mxGeometry x="132.5" y="100" width="95" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Everything in the VPc can communicate&lt;br&gt;with the Subnet even if is a private Subnet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="60" y="60" width="240" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
